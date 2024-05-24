@@ -12,6 +12,8 @@ sysuse auto, clear
 
 * push from Stata
 
+* push from Stata 2nd
+
 scatter price mpg 
 graph export ./figures/figure1.png, replace wid(1000)
 
