@@ -8,6 +8,8 @@ sysuse auto, clear
 
 *just add this again
 
+* push from TErminal
+
 scatter price mpg 
 graph export ./figures/figure1.png, replace wid(1000)
 
