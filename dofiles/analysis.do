@@ -4,18 +4,6 @@ cap cd "/Users/smaulana/Documents/GitHub/github-tutorial"
 
 sysuse auto, clear
 
-*just add this
-
-*just add this again
-
-* push from TErminal
-
-* push from Stata
-
-* push from Stata 2nd
-
-* push from Stata 3rd
-
 
 scatter price mpg 
 graph export ./figures/figure1.png, replace wid(1000)
