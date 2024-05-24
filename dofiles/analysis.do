@@ -10,6 +10,8 @@ sysuse auto, clear
 
 * push from TErminal
 
+* push from Stata
+
 scatter price mpg 
 graph export ./figures/figure1.png, replace wid(1000)
 
